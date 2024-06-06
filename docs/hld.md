@@ -1,5 +1,20 @@
 ---
+cover: ../.gitbook/assets/high-level-design-banner.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # High-Level Design (HLD) Document
@@ -15,6 +30,8 @@ The purpose of this document is to provide a high-level overview of the architec
 This document covers the architecture, key components, data flow, and technologies involved in the project.
 
 ## 2. System Overview
+
+<figure><img src="../.gitbook/assets/1_OMhE9T_tuC0pUoZyWKWSnQ.png" alt=""><figcaption><p>MySpringApplication - Client &#x3C;- -> Server</p></figcaption></figure>
 
 ### 2.1 System Description
 
